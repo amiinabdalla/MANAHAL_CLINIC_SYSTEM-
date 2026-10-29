@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manahal.onrender.com/sitemap.xml
